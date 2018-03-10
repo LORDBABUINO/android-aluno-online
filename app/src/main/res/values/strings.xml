@@ -1,17 +1,19 @@
 <resources>
     <string name="app_name">aluno-online</string>
-    <string name="entrar">Entrar</string>
+    <string name="sign_in">Entrar</string>
     <string name="e_mail">E-mail</string>
-    <string name="senha">Senha</string>
+    <string name="password">Senha</string>
     <string name="todo">TODO</string>
-    <string name="registrar_se">Registrar-se</string>
-    <string name="esqueci_a_senha">Esqueci a senha</string>
-    <string name="signUpTextViewRegistrar_se">Registrar-se</string>
-    <string name="signUpEditTextName">Nome</string>
-    <string name="signUpEditTextEmail">E-mail</string>
-    <string name="signUpEditTextPassword">Senha</string>
-    <string name="signUpTextViewRegistrar">Registrar</string>
-    <string name="rememberPasswordTextView_recuperar_senha">Recuperar Senha</string>
-    <string name="rememberPasswordEditText_e_mail">E-mail</string>
-    <string name="RememberPasswordButton_enviar">Enviar</string>
+    <string name="sign_up">Registrar-se</string>
+    <string name="forgot_the_password">Esqueci a senha</string>
+    <string name="remember_password">Recuperar Senha</string>
+    <string name="send">Enviar</string>
+    <string name="profile">Perfil</string>
+    <string name="name">Nome</string>
+    <string name="registry">Matrícula</string>
+    <string name="course">Curso</string>
+    <string name="campus">Campus</string>
+    <string name="turn">Turno</string>
+    <string name="interests">Interesses</string>
+    <string name="save">Salvar</string>
 </resources>
