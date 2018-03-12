@@ -18,9 +18,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".SignUpActivity" />
-        <activity android:name=".RememberPasswordActivity"></activity>
+        <activity android:name=".RememberPasswordActivity"/>
     </application>
 
 </manifest>
 
-    //aerhbseaherabzrfbawrgawegwrgvb
+    <!--aerhbseaherabzrfbawrgawegwrgvb-->
