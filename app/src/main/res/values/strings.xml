@@ -16,4 +16,6 @@
     <string name="turn">Turno</string>
     <string name="interests">Interesses</string>
     <string name="save">Salvar</string>
+    <string name="googleLogin">Login with GooglePlus</string>
+    <string name="facebookLogin">Login with Facebook</string>
 </resources>
