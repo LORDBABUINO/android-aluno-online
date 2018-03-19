@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/alunoonline.iml" filepath="$PROJECT_DIR$/alunoonline.iml" />
+      <module fileurl="file://C:\Users\provasul\AndroidStudioProjects\android-aluno-online\alunoonline.iml" filepath="C:\Users\provasul\AndroidStudioProjects\android-aluno-online\alunoonline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-aluno-online.iml" filepath="$PROJECT_DIR$/android-aluno-online.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
